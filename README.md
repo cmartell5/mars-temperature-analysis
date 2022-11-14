@@ -13,5 +13,3 @@ After that, we answered the following questions with related visualizations usin
  * Which months have the lowest and the highest atmospheric pressure on Mars?
  * About how many terrestrial (Earth) days exist in a Martian year? (using a visual estimate)
 
- ## Programs used for web scraping
- Jupyter Notebook, Python, Pandas, Splinter and HTML parsing with Beautiful Soup.
