@@ -1,4 +1,4 @@
-# Web-Scraping-Project
+# web-scraping-project
 Web scraping using Jupyter Notebook, Python, Pandas, Splinter and HTML parsing with Beautiful Soup.
 
 ## Part 1
