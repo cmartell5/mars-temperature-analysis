@@ -1,4 +1,4 @@
-# web-scraping-project
+# Mars Temperature Data Analysis
 Web scraping using Jupyter Notebook, Python, Pandas, Splinter and HTML parsing with Beautiful Soup.
 
 ## Part 1
